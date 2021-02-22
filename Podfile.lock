@@ -1,0 +1,20 @@
+PODS:
+  - GoogleWebRTC (1.1.31999)
+  - HMSVideo (0.10.1):
+    - GoogleWebRTC (= 1.1.31999)
+
+DEPENDENCIES:
+  - HMSVideo
+
+SPEC REPOS:
+  trunk:
+    - GoogleWebRTC
+    - HMSVideo
+
+SPEC CHECKSUMS:
+  GoogleWebRTC: b39a78c4f5cc6b0323415b9233db03a2faa7b0f0
+  HMSVideo: c4426f9dbf65251626eb17b56bc9e56f4dfedfac
+
+PODFILE CHECKSUM: de497d427dca4611446c6826e101330c4884f3d4
+
+COCOAPODS: 1.10.1
